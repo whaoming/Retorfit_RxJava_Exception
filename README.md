@@ -236,8 +236,7 @@ view层最最简单地示范
 demo截图：
 ![这里写图片描述](http://img.blog.csdn.net/20160616142723594)![这里写图片描述](http://img.blog.csdn.net/20160616142743876)
 
-> demo地址
-> github：https://github.com/122627018/Retorfit_RxJava_Exception
+
 
 **ps**：关于SampleProgressObserver我就不说了哈，这里po下代码,对RxJava了解的人应该都能看懂的
 
@@ -300,5 +299,7 @@ public abstract class MyObserver<T> extends Subscriber<T> {
 
 ```
 
+> BLOG
+> http://blog.csdn.net/qq122627018/article/details/51689891#t8
 
 
