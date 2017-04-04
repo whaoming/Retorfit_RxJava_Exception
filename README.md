@@ -1,5 +1,9 @@
 # Retorfit_RxJava_Exception
-优雅地处理服务器返回的错误和客户端访问网络过程中产生的错误
+优雅地处理服务器返回的错误和客户端访问网络过程中产生的错误  
+
+ps：可以看看我关于Retrofit+RxJava第二篇文章,其中主要讲了一些封装与业务逻辑的处理  
+> 优雅地使用Retrofit+RxJava(二)  
+> http://blog.csdn.net/qq122627018/article/details/68957782    
 
 ## 前言
 
